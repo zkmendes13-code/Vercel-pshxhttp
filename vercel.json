@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://musk.pshnet.shop/$1"
+      "destination": "http://179.61.185.5/$1"
     }
   ]
 }
